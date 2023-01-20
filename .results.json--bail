@@ -1,0 +1,54 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-01-20T01:19:39.989Z",
+    "end": "2023-01-20T01:19:40.000Z",
+    "duration": 11
+  },
+  "tests": [
+    {
+      "title": "contains a <link> tag",
+      "fullTitle": "index.html contains a <link> tag",
+      "file": "/Users/gabygalvan/Development/code/prework/phase-0-css-fundamentals-lab/test/indexTest.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "correctly links to the style.css file with a relative path",
+      "fullTitle": "index.html correctly links to the style.css file with a relative path",
+      "file": "/Users/gabygalvan/Development/code/prework/phase-0-css-fundamentals-lab/test/indexTest.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "contains a <link> tag",
+      "fullTitle": "index.html contains a <link> tag",
+      "file": "/Users/gabygalvan/Development/code/prework/phase-0-css-fundamentals-lab/test/indexTest.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "correctly links to the style.css file with a relative path",
+      "fullTitle": "index.html correctly links to the style.css file with a relative path",
+      "file": "/Users/gabygalvan/Development/code/prework/phase-0-css-fundamentals-lab/test/indexTest.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
